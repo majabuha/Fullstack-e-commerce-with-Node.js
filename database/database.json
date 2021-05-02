@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Cup",
+      "price": 89,
+      "image": "https://images.unsplash.com/photo-1548940992-755ca0cc61b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 2,
+      "product": "Colorful rug",
+      "price": 440,
+      "image": "https://images.unsplash.com/photo-1580687104339-1493228f79c9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 3,
+      "product": "Working desk",
+      "price": 599,
+      "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 4,
+      "product": "Night Lamp",
+      "price": 199,
+      "image": "https://images.unsplash.com/photo-1597247402476-59a400becde5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 5,
+      "product": "Chair",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1554941829-fcef7b298d5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 6,
+      "product": "Coffe table",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1617864719832-a4b135b80956?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80"
+    },
+    {
+      "id": 7,
+      "product": "Couch",
+      "price": 3990,
+      "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 8,
+      "product": "Screen",
+      "price": 990,
+      "image": "https://images.unsplash.com/photo-1523400396672-db241b5292fe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1286&q=80"
+    },
+    {
+      "id": 9,
+      "product": "Shelves",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1542800262-8b3c1a6007ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=919&q=80"
+    }
+  ],
+  "cart": []
+}
